@@ -1,0 +1,7 @@
+C:\Users\berne\OneDrive\Рабочий стол\polytech\КпиЯП\laba_9\zad_1\zad_1\obj\Debug\zad_1.csproj.AssemblyReference.cache
+C:\Users\berne\OneDrive\Рабочий стол\polytech\КпиЯП\laba_9\zad_1\zad_1\obj\Debug\zad_1.csproj.CoreCompileInputs.cache
+C:\Users\berne\OneDrive\Рабочий стол\polytech\КпиЯП\laba_9\zad_1\zad_1\bin\Debug\zad_1.exe.config
+C:\Users\berne\OneDrive\Рабочий стол\polytech\КпиЯП\laba_9\zad_1\zad_1\bin\Debug\zad_1.exe
+C:\Users\berne\OneDrive\Рабочий стол\polytech\КпиЯП\laba_9\zad_1\zad_1\bin\Debug\zad_1.pdb
+C:\Users\berne\OneDrive\Рабочий стол\polytech\КпиЯП\laba_9\zad_1\zad_1\obj\Debug\zad_1.exe
+C:\Users\berne\OneDrive\Рабочий стол\polytech\КпиЯП\laba_9\zad_1\zad_1\obj\Debug\zad_1.pdb
